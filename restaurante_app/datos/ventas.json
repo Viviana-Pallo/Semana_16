@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "fecha": "2026-10-03",
+        "producto": "Hamburguesa",
+        "cantidad": 2,
+        "precio_unitario": 3.5,
+        "total": 7.0,
+        "usuario": "admin"
+    },
+    {
+        "id": 2,
+        "fecha": "2026-10-03",
+        "producto": "Papi Pollo",
+        "cantidad": 3,
+        "precio_unitario": 2.0,
+        "total": 6.0,
+        "usuario": "admin"
+    }
+]

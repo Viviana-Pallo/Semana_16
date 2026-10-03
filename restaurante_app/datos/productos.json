@@ -1,0 +1,26 @@
+[
+  {
+    "identificador": "P001",
+    "nombre": "Ceviche de camaron",
+    "precio": 8.5,
+    "stock": 20
+  },
+  {
+    "identificador": "P002",
+    "nombre": "Seco de chivo",
+    "precio": 9.0,
+    "stock": 15
+  },
+  {
+    "identificador": "P003",
+    "nombre": "Encebollado",
+    "precio": 7.0,
+    "stock": 18
+  },
+  {
+    "identificador": "P004",
+    "nombre": "Arroz con pollo",
+    "precio": 6.5,
+    "stock": 25
+  }
+]

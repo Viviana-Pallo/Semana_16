@@ -1,0 +1,44 @@
+[
+    {
+        "identificador": "admin",
+        "nombre": "Administrador",
+        "usuario": "admin",
+        "contrasena": "admin123",
+        "rol": "Administrador"
+    },
+    {
+        "identificador": "EMP001",
+        "nombre": "Juan Perez",
+        "usuario": "juan",
+        "contrasena": "1234",
+        "rol": "Empleado"
+    },
+    {
+        "identificador": "CLI001",
+        "nombre": "Maria Lopez",
+        "usuario": "maria",
+        "contrasena": "1234",
+        "rol": "Cliente"
+    },
+    {
+        "identificador": "EMP002",
+        "nombre": "Ana Torres",
+        "usuario": "ana",
+        "contrasena": "1234",
+        "rol": "Cliente"
+    },
+    {
+        "identificador": "EMP003",
+        "nombre": "Carlos Ruiz",
+        "usuario": "carlos",
+        "contrasena": "1234",
+        "rol": "Empleado"
+    },
+    {
+        "identificador": "CLI002",
+        "nombre": "Lucia Gomez",
+        "usuario": "lucia",
+        "contrasena": "1234",
+        "rol": "Empleado"
+    }
+]
